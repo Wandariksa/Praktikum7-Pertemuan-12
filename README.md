@@ -2,7 +2,7 @@
 
 # Untuk menampilkan daftar nilai mahasiswa menggunakan program 
 
-  class DaftarNilaiMahasiswa:
+    class DaftarNilaiMahasiswa:
       def __init__(self):
           self.data_mahasiswa = {}
 
