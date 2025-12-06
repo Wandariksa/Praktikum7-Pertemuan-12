@@ -39,7 +39,7 @@
           else:
               print(f"Data {nama} tidak ditemukan.")
 
-  #Contoh penggunaan program:
+      #Contoh penggunaan program:
   if __name__ == "__main__":
       app = DaftarNilaiMahasiswa()
 
